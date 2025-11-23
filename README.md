@@ -17,9 +17,3 @@ This small project demonstrates fundamental SQL skills: schema design, data inse
 - SQL DDL (CREATE TABLE), DML (INSERT)
 - Joins, Aggregations, GROUP BY
 - Basic date grouping and NULL handling
-
-## Suggested GitHub repo name
-`sql-sales-analysis-project`
-
-## Suggested commit message
-`Initial commit: add schema, sample data, and analysis queries`
